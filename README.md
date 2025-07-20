@@ -51,5 +51,5 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 
 2.   <img width="995" height="719" alt="Image" src="https://github.com/user-attachments/assets/7b963585-ade0-4da4-a9d2-1746c94c2aee" />
 
-3.   
+3.   <img width="1042" height="717" alt="Image" src="https://github.com/user-attachments/assets/76f881ab-694d-45e6-92a5-191a7dbc497d" />
 
