@@ -47,5 +47,9 @@ y=df["target"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 ```
 ### Output 
-<img width="1004" height="707" alt="Image" src="https://github.com/user-attachments/assets/18d4647e-6356-40ae-8ce5-99b79ebb07e5" />
+1.   <img width="1004" height="707" alt="Image" src="https://github.com/user-attachments/assets/18d4647e-6356-40ae-8ce5-99b79ebb07e5" />
+
+2.   <img width="995" height="719" alt="Image" src="https://github.com/user-attachments/assets/7b963585-ade0-4da4-a9d2-1746c94c2aee" />
+
+3.   
 
