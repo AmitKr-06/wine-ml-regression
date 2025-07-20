@@ -32,7 +32,7 @@ The goal of this project is to:
 - Seaborn
 
 
-## 🔧 Model Building
+##  Model Building
 
 ### 1. Load & Split Data
 
